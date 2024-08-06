@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\visha\\OneDrive\\Desktop\\consul\\housing-data",
+        "app_url": "https://portf-vishal.shinyapps.io/housing-data/",
+        "app_id": 12415018,
+        "app_guid": null,
+        "title": "housing-data",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
