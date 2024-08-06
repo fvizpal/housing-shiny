@@ -1,6 +1,6 @@
 # Housing data visualisation app 
 
-Elaboarte data depiction and visualisation of housing data using line charts and tables
+Elaborate data depiction and visualisation of housing data using line charts and tables
 
 #### Tech Stack
 1. Shiny for pyhton
